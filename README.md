@@ -14,7 +14,7 @@
 ### 内网穿透 [可选]
 如需外网访问，可配置内网穿透服务。
 
-## Chorus2api 配置
+## [Chorus2api](https://2api-docs.pages.dev/page/chorus2api/quick-deploy.html) 配置
 
 ### 添加环境变量
 ```
