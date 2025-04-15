@@ -1,7 +1,7 @@
 # Chorus2api-Helper 
 
 > 部署前的准备
-> 1. **Mac环境**
+> 1. **Mac环境**(最好是闲置机,因为会有脚本执行)
 > 2. 下载[Chorus](https://chorus.sh/)
 > 3. 下载[reqable](https://reqable.com/zh-CN/download/)
 
