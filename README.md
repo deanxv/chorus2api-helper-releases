@@ -1,5 +1,8 @@
 # Chorus2api-Helper 
 
+> ### When you look long into an abyss,the abyss looks into you! Charlie。
+
+
 > 部署前的准备
 > 1. **Mac环境**(最好是闲置机,因为会有脚本执行)
 > 2. 下载[Chorus](https://chorus.sh/)
